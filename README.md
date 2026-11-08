@@ -310,7 +310,7 @@ This laboratory is intended strictly for education purposes only.
 **Brian Simpande**\
 
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: https://www.linkedin.com/in/brian-simpande-b75644b9/
 
 ---
 
