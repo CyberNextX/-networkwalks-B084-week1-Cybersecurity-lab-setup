@@ -33,7 +33,6 @@ The lab is configured on a private virtual network so that additional machines c
 🎯 Project Objectives Objectives
 
 The main objectives of this project are to:
-
 ✅ Install and configure 7-Zip.
 ✅ Install and configure Oracle VirtualBox.
 ✅ Install or import Kali Linux as a virtual machine.
@@ -45,6 +44,7 @@ The main objectives of this project are to:
 ✅ Create a clean virtual machine snapshot for recovery.
 ✅ Document the complete setup process.
 ✅ Prepare the environment for future cybersecurity projects.
+
 ---
 
 ## 🛡️ Purpose of the Lab
