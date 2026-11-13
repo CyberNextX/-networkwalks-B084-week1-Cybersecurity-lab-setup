@@ -31,6 +31,7 @@ The lab is configured on a private virtual network so that additional machines c
 
 ---
 The main objectives of this project are to: 
+
 ✅ Install and configure 7-Zip. 
 
 ✅ Install and configure Oracle VirtualBox. 
@@ -54,6 +55,7 @@ The main objectives of this project are to:
 ✅ Prepare the environment for future cybersecurity projects.
 
 ---
+
 🛡️ Purpose of the Lab
 
 The laboratory provides a controlled environment for cybersecurity learning and authorised security testing.
@@ -113,7 +115,9 @@ Kali Linux virtual-machine downloads may be distributed as compressed archives. 
 Tool: 7-Zip
 
 Purpose:
+
 📦 7-Zip Installation and Kali Linux File Preparation
+
 ☑️ Extract compressed Kali Linux files.
 
 ☑️ Access the virtual-machine installation package.
@@ -168,10 +172,15 @@ A NAT Network allows multiple virtual machines connected to the same virtual net
 This makes it suitable for a multi-machine cybersecurity laboratory.
 
 It allows:
+
 🖥️ Kali Linux to communicate with target virtual machines.
+
 🌐 Multiple laboratory machines to share the same virtual network.
+
 📡 Outbound internet access for software updates and downloads.
+
 🔗 Communication between virtual machines connected to the same NAT Network.
+
 Unlike standard NAT, NAT Network supports communication between virtual machines connected to the same NAT Network.
 This will allow future attacker and target virtual machines to communicate within the laboratory.
 
