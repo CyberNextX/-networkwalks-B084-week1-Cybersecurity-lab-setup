@@ -34,37 +34,21 @@ The lab is configured on a private virtual network so that additional machines c
 
 ---
 
-
-## 🎯 Objectives
+🎯 Project Objectives Objectives
 
 The main objectives of this project are to:
 
-🎯 Project Objectives
-
-The objectives of this project were to:
-
-Install and configure Oracle VirtualBox.
-
-Install or import Kali Linux as a virtual machine.
-
-Create a dedicated NAT Network for the cybersecurity laboratory.
-
-Configure network connectivity for Kali Linux.
-
-Assign a consistent IP address to the Kali Linux virtual machine.
-
-Verify network connectivity and test DNS resolution.
-
-Verify the availability of essential cybersecurity tools.
-
-Create a clean virtual machine snapshot for recovery.
-
-Document the complete setup process.
-
-Prepare the environment for future cybersecurity projects.
-
-Install and configure 7-Zip.
-
+✅ Install and configure 7-Zip.
+✅ Install and configure Oracle VirtualBox.
+✅ Install or import Kali Linux as a virtual machine.
+✅ Create a dedicated NAT Network for the cybersecurity laboratory.
+✅ Configure network connectivity for Kali Linux.
+✅ Assign a consistent IP address to the Kali Linux virtual machine.
+✅ Verify network connectivity and test DNS resolution.
+✅ Verify the availability of essential cybersecurity tools.
+✅ Create a clean virtual machine snapshot for recovery.
+✅ Document the complete setup process.
+✅ Prepare the environment for future cybersecurity projects.
 ---
 
 ## 🛡️ Purpose of the Lab
@@ -74,19 +58,12 @@ The laboratory provides a controlled environment for cybersecurity learning and 
 It will support practical exercises involving:
 
 ✅ Network reconnaissance
-
 ✅ Port scanning
-
 ✅ Vulnerability assessment
-
 ✅ Packet analysis
-
 ✅ Web application security testing
-
 ✅ Penetration-testing tools
-
 ✅ Network troubleshooting
-
 ✅ Security-tool experimentation
 
 ⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
@@ -97,9 +74,7 @@ It will support practical exercises involving:
 
 ![](1-screenshot-title-image.png)
 
-
 Additional target machines can be added to the same virtual network in future projects.
-
 ---
 
 ## ⚙️ Lab Configuration
@@ -133,16 +108,12 @@ Tool: 7-Zip
 
 Purpose:
 
-Extract compressed Kali Linux files.
-
-Access the virtual-machine installation package.
-
-Prepare the extracted files for VirtualBox import.
-
+📦 7-Zip Installation and Kali Linux File Preparation
+☑️ Extract compressed Kali Linux files.
+☑️ Access the virtual-machine installation package.
+☑️ Prepare the extracted files for VirtualBox import.
 NB: 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
-
 **Tool:** 7-Zip
-
 ---
 
 ## 💻 Step 2. Install VirtualBox
@@ -151,15 +122,15 @@ VirtualBox was installed as the hypervisor.
 
 Purpose:
 
-Create and manage virtual machines.
+tualBox was installed as the hypervisor for creating and managing the cybersecurity laboratory.
 
-Configure virtual network adapters.
+Purpose:
 
-Allocate hardware resources.
-
-Create and restore virtual-machine snapshots.
-
-Establish a controlled virtual testing environment.
+☑️ Create and manage virtual machines.
+🔧 Configure virtual network adapters.
+🖥️ Allocate hardware resources.
+♻️ Create and restore virtual-machine snapshots.
+🔐 Establish a controlled virtual testing environment.
 
 ---
 
@@ -179,23 +150,18 @@ IPv6:         Disabled
 
 **Why NAT Network Was Selected**
 
-A **NAT Network** allows multiple virtual machines connected to the same virtual network to communicate with one another while providing outbound internet connectivity.
+A NAT Network allows multiple virtual machines connected to the same virtual network to communicate with one another while providing outbound internet connectivity.
 
 This makes it suitable for a multi-machine cybersecurity laboratory.
 
 It allows:
 
-Kali Linux to communicate with target virtual machines.
-
-Multiple laboratory machines to share the same virtual network.
-
-Outbound internet access for software updates and downloads.
-
+🖥️ Kali Linux to communicate with target virtual machines.
+🌐 Multiple laboratory machines to share the same virtual network.
+📡 Outbound internet access for software updates and downloads.
+🔗 Communication between virtual machines connected to the same NAT Network.
 Unlike standard NAT, NAT Network supports communication between virtual machines connected to the same NAT Network.
-
-This will allow future attacker and target VMs to communicate within the lab.
-
-
+This will allow future attacker and target virtual machines to communicate within the laboratory.
 ---
 
 ## 🐉 Step 4. Import Kali Linux
