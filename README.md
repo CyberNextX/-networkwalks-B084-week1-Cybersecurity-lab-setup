@@ -30,10 +30,51 @@ The purpose of the lab is to create a controlled environment where cybersecurity
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
 ---
+The main objectives of this project are to: 
+✅ Install and configure 7-Zip. 
 
-tant: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorised systems.
+✅ Install and configure Oracle VirtualBox. 
+
+✅ Install or import Kali Linux as a virtual machine. 
+
+✅ Create a dedicated NAT Network for the cybersecurity laboratory. 
+
+✅ Configure network connectivity for Kali Linux. 
+
+✅ Assign a consistent IP address to the Kali Linux virtual machine. 
+
+✅ Verify network connectivity and test DNS resolution. 
+
+✅ Verify the availability of essential cybersecurity tools. 
+
+✅ Create a clean virtual machine snapshot for recovery. 
+
+✅ Document the complete setup process. 
+
+✅ Prepare the environment for future cybersecurity projects.
 
 ---
+🛡️ Purpose of the Lab
+
+The laboratory provides a controlled environment for cybersecurity learning and authorised security testing.
+
+It will support practical exercises involving:
+
+🔍 Network reconnaissance
+
+📡 Port scanning
+
+🛠️ Vulnerability assessment
+
+📊 Packet analysis
+
+🌐 Web application security testing
+
+🔐 Penetration-testing tools
+
+🔧 Network troubleshooting
+
+🧪 Security-tool experimentation
 
 ## 🏗️ Lab Architecture
 
@@ -74,8 +115,11 @@ Tool: 7-Zip
 Purpose:
 📦 7-Zip Installation and Kali Linux File Preparation
 ☑️ Extract compressed Kali Linux files.
+
 ☑️ Access the virtual-machine installation package.
+
 ☑️ Prepare the extracted files for VirtualBox import.
+
 NB: 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 **Tool:** 7-Zip
 
@@ -87,14 +131,18 @@ VirtualBox was installed as the hypervisor.
 
 Purpose:
 
-tualBox was installed as the hypervisor for creating and managing the cybersecurity laboratory.
+VitualBox was installed as the hypervisor for creating and managing the cybersecurity laboratory.
 
 Purpose:
 
 ☑️ Create and manage virtual machines.
+
 🔧 Configure virtual network adapters.
+
 🖥️ Allocate hardware resources.
+
 ♻️ Create and restore virtual-machine snapshots.
+
 🔐 Establish a controlled virtual testing environment.
 
 ---
