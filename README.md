@@ -1,6 +1,3 @@
-# -networkwalks-B084-week1-Cybersecurity-lab-setup
-Cybersecurity Lab setup
-<div align="center">
 
 # Cybersecurity Lab Environment Setup 🔐
 
