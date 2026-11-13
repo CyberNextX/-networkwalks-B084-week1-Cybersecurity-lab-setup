@@ -1,10 +1,7 @@
 
    <div align="center">
-
-🔐 Cybersecurity Lab Environment Setup
-
-Building an isolated virtual lab for penetration testing and ethical hacking practice
-
+  <h1>🔐 Cybersecurity Lab Environment Setup</h1>
+  <p><strong>Building an isolated virtual lab for penetration testing and ethical hacking practice</strong></p>
 </div>
 
 <p align="center">
