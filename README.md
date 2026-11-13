@@ -103,13 +103,13 @@ Kali Linux virtual-machine downloads may be distributed as compressed archives. 
 Tool: 7-Zip
 
 Purpose:
-
 📦 7-Zip Installation and Kali Linux File Preparation
 ☑️ Extract compressed Kali Linux files.
 ☑️ Access the virtual-machine installation package.
 ☑️ Prepare the extracted files for VirtualBox import.
 NB: 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 **Tool:** 7-Zip
+
 ---
 
 ## 💻 Step 2. Install VirtualBox
