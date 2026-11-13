@@ -1,6 +1,10 @@
 
-                                             🔐 Cybersecurity Lab Environment Setup
+   <div align="center">
+
+🔐 Cybersecurity Lab Environment Setup
+
 Building an isolated virtual lab for penetration testing and ethical hacking practice
+
 </div>
 
 <p align="center">
@@ -151,13 +155,13 @@ A NAT Network allows multiple virtual machines connected to the same virtual net
 This makes it suitable for a multi-machine cybersecurity laboratory.
 
 It allows:
-
 🖥️ Kali Linux to communicate with target virtual machines.
 🌐 Multiple laboratory machines to share the same virtual network.
 📡 Outbound internet access for software updates and downloads.
 🔗 Communication between virtual machines connected to the same NAT Network.
 Unlike standard NAT, NAT Network supports communication between virtual machines connected to the same NAT Network.
 This will allow future attacker and target virtual machines to communicate within the laboratory.
+
 ---
 
 ## 🐉 Step 4. Import Kali Linux
