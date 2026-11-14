@@ -398,15 +398,20 @@ This laboratory is intended strictly for education purposes only.
 
 ---
 
-# 👤 Author
+#  👨‍💻 Author
 
-**Brian Simpande**\
-
+**Brian Simpande**
 
 LinkedIn: https://www.linkedin.com/in/brian-simpande/
 
----
+📋 Project Details
 
-## 📌 Project Information
+## 📌 Programme: Cybersecurity at Networkwalks
 
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+Week: 01
+
+Project: Cybersecurity and Penetration Testing Lab Setup
+
+Platform: GitHub
+
+
