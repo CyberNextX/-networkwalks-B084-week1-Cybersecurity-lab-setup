@@ -163,9 +163,6 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-<img width="3275" height="1890" alt="Configure the Kali Linux Network" src="https://github.com/user-attachments/assets/b0aa52aa-880b-4c17-b963-b25e03f46e9b" />
-
-
 **Why NAT Network Was Selected**
 
 A NAT Network allows multiple virtual machines connected to the same virtual network to communicate with one another while providing outbound internet connectivity.
