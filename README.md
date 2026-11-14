@@ -96,7 +96,7 @@ Additional target machines can be added to the same virtual network in future pr
 | ⚡ Processor       | Intel Core i7      |
 | 🧰 Hypervisor      | VirtualBox 7.2     |
 | 🐉 Security OS     | Kali Linux 2026.3  |
-| 🧠 Kali RAM        | 5.8Gi GB (            |
+| 🧠 Kali RAM        | 5.8Gi GB           |
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
 | 🐧 Kali IP Address | 10.0.0.2/24        |
