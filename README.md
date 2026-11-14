@@ -151,6 +151,9 @@ Purpose:
 
 🔐 Establish a controlled virtual testing environment.
 
+<img width="3800" height="1970" alt="Virtual Box Installation" src="https://github.com/user-attachments/assets/938937fe-e386-41bc-8d6e-cbf08bbc9ee3" />
+
+
 ---
 
 ## 🌐 Step 3. Create the NAT Network
