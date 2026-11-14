@@ -418,6 +418,6 @@ Platform: GitHub
 
 Watch a video demonstration of my cybersecurity laboratory setup.
 
-[▶ Watch the demonstration on LinkedIn] https://www.linkedin.com/posts/brian-simpande_networkwalks-cybersecurity-ethicalhacking-ugcPost-7527176861701955584-KwSY
+▶ https://www.linkedin.com/posts/brian-simpande_networkwalks-cybersecurity-ethicalhacking-ugcPost-7527176861701955584-KwSY
 
 
