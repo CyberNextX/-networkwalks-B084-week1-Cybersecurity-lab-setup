@@ -81,6 +81,8 @@ It will support practical exercises involving:
 ## 🏗️ Lab Architecture
 
 ![](1-screenshot-title-image.png)
+<img width="1346" height="616" alt="1-screenshot-title-image" src="https://github.com/user-attachments/assets/a02f623a-a8e5-477e-aab3-2fb33dfe94d0" />
+
 
 Additional target machines can be added to the same virtual network in future projects.
 ---
