@@ -266,6 +266,9 @@ The snapshot represents the clean baseline of the laboratory.
 
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
+<img width="3810" height="1990" alt="Shared folder on Desk Top" src="https://github.com/user-attachments/assets/6156e312-7f0a-46d7-8127-b9cac7d579d3" />
+
+
 ---
 
 # 🔎 Lab Verification
