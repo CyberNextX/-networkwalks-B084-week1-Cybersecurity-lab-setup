@@ -97,7 +97,7 @@ Additional target machines can be added to the same virtual network in future pr
 | 🧠 Kali RAM        | 5.8Gi GB (            |
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
-| 🐧 Kali IP Address | 10.0.0.3/24        |
+| 🐧 Kali IP Address | 10.0.0.2/24        |
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 8.8.8.8            |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
@@ -163,7 +163,8 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-<img width="3830" height="2007" alt="NatNetwork settings" src="https://github.com/user-attachments/assets/cd745d5f-12c4-4fbb-abb8-28db9cd78f97" />
+<img width="3275" height="1890" alt="Configure the Kali Linux Network" src="https://github.com/user-attachments/assets/b0aa52aa-880b-4c17-b963-b25e03f46e9b" />
+
 
 **Why NAT Network Was Selected**
 
@@ -235,7 +236,7 @@ A static IPv4 configuration was used to make the Kali machine easier to identify
 IPv4 Configuration
 
 ```text
-IIP Address:   10.0.0.3
+IP Address:   10.0.0.2
 Subnet Mask:  255.255.255.0
 Gateway:      10.0.0.1
 DNS Server:   8.8.8.8
